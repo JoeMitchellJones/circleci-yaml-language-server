@@ -587,7 +587,7 @@ workflows:
                 filters:
                     <<: *ignore-release-tag
                 context:
-                    - org-global-employees
+                    - snyk
             - Build Linux:
                 filters:
                     <<: *ignore-release-tag
