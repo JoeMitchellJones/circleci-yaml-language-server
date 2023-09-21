@@ -151,7 +151,7 @@ DiagnosticList {
         {
           "edit": {
             "changes": {
-              "file:///home/circleci/project/test-files/.circleci/invalid-files/autocomplete-jobs.yml": [
+              "file:///Users/joemitchelljones/circleci-yaml-language-server/test-files/.circleci/invalid-files/autocomplete-jobs.yml": [
                 {
                   "newText": "5.1.0",
                   "range": {
@@ -174,7 +174,7 @@ DiagnosticList {
         {
           "edit": {
             "changes": {
-              "file:///home/circleci/project/test-files/.circleci/invalid-files/autocomplete-jobs.yml": [
+              "file:///Users/joemitchelljones/circleci-yaml-language-server/test-files/.circleci/invalid-files/autocomplete-jobs.yml": [
                 {
                   "newText": "5.1.0",
                   "range": {
@@ -261,7 +261,7 @@ DiagnosticList {
         {
           "edit": {
             "changes": {
-              "file:///home/circleci/project/test-files/.circleci/diagnostic.yml": [
+              "file:///Users/joemitchelljones/circleci-yaml-language-server/test-files/.circleci/diagnostic.yml": [
                 {
                   "newText": "4.12.5",
                   "range": {
@@ -284,7 +284,7 @@ DiagnosticList {
         {
           "edit": {
             "changes": {
-              "file:///home/circleci/project/test-files/.circleci/diagnostic.yml": [
+              "file:///Users/joemitchelljones/circleci-yaml-language-server/test-files/.circleci/diagnostic.yml": [
                 {
                   "newText": "4.12.5",
                   "range": {
